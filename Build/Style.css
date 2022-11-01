@@ -1,0 +1,177 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0px;
+    background-color:#EAEDED;
+}
+header{
+    position:sticky;
+    top:0;
+}
+.logo{
+    background-color:#222F3E;
+    padding-left:5%;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+.imglogo{
+    width:10%;
+}
+.barra{
+    background-color:#354758;
+    padding-top:1%;
+    padding-bottom:1%; 
+}
+#spannino{
+    font-size:1.1em;
+    color:white;
+    padding-left:5%;
+}
+.spannino{
+    font-size:1.1em;
+    color:white;
+    padding-left:2%;
+}
+.arancio{
+    background-color:#F56600;
+    text-align:center;
+    margin-top:4%;
+    margin-bottom:4%;
+    margin-left:5%;
+    margin-right:5%;
+}
+.paragrafo{
+    color:#EAEDED;
+    padding-top:1%;
+    padding-bottom:1%;
+    font-size:1.1em;
+}
+.background{
+    text-align:center;
+    background-image:url(./assets/bg-image.png);
+    margin-left:5%;
+    margin-right:5%;
+    padding-top:2.5%;
+    padding-bottom:1.5%
+}
+h1{
+    color:#EAEDED;
+    font-size:2.2em;
+}
+h2{
+    color:#EAEDED;
+    font-size:1.3em; 
+}
+.container{
+    margin-left:5%;
+    margin-right:5%;
+    background-color:white;
+    padding-bottom:1%;
+}
+h3{
+    margin-left:0.5%;
+    margin-top:2%;
+    padding:1%;
+    margin-bottom:0px;
+    font-size:1.5em;
+}
+.azzurro{
+    padding-left:2%;
+    color:#84B6BF;
+}
+#immagine1{
+    width:20vw;
+    border-radius:5%;
+    margin-left:2%;
+    box-shadow: 5px 5px 3px #dedede;
+}
+.immagine1{
+width:20vw;
+height:41.2vh;
+border-radius:5%;
+box-shadow: 5px 5px 3px #dedede;
+}
+.microcontainer{
+    display:inline-block;
+    margin:1%;
+    position:relative;
+    transition: opacity ease 0.5s;
+}
+.microcontainer .primo{
+    color:white;
+    position:absolute;
+    font-size:20px;
+   top:30px;
+   left:250px;
+}
+.microcontainer .secondo{
+    color:white;
+    position:absolute;
+    font-size:15px;
+    bottom:20px;
+    right:45px;
+    background-color:#3e6181;
+    border-radius:5px;
+    padding:10px 60px;
+}
+.container2{
+    margin-left:5%;
+    margin-right:5%;
+    text-align:center;
+}
+.titoletto{
+    margin-top:0%;
+    padding-top:0.2%;
+}
+.immagine2{
+    margin-top:3%;
+    width:100%;
+}
+.footer{
+    background-color:#354758;
+    text-align:center;
+    margin-top:3%;
+    padding:2%;
+}
+a{
+    color:#EAEDED;
+    font-size:1.3em;
+}
+.logo2{
+    background-color:#222F3E;
+    text-align:center;
+    padding:5%;
+}
+.supercontenitore{
+    margin-left:4.1%;
+    margin-right:4.1%;
+    margin-top:3%;
+    font-size:0;
+}
+.contenitore{
+    background-color:white;
+    width:23%;
+    display:inline-block;
+    margin:1%;
+}
+.microcontenitore{
+    display:inline-block;
+    width:46%;
+    margin-left:4%;
+}
+.microcontenitore img{
+    width:100%;
+}
+.microcontenitore p{
+    width:100%;
+    margin:0;
+    font-size:1rem;
+}
+.contenitore h3{
+    font-size:1.5rem;
+    padding:4%;
+}
+.azzurrino{
+    font-size:1rem;
+    color:#84B6BF;
+    margin-left:4%;
+}
